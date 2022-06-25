@@ -30,6 +30,6 @@ For Example:
 
 If user selected the `step` to be `5` and `max` to `15`. The value of counter should increment/decrement by 5 and should not exceed the `max` value.
 
-## App UI With Steps and Max
+## App UI With Steps and Max.
 
 ![Counter App With Step and Max](../assets/max.png)
