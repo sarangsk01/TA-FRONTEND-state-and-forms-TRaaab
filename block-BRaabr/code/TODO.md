@@ -8,7 +8,7 @@ Create a multiple input with all the different input types.
 - Read-Only Input (Input type text) use the special attribute `readonly`
 - Disabled Input (Input type text)
 - Textarea Input (Textarea)
-- Textarea Input Disabled
+- Textarea Input Disabled.
 
 ![Form](../assets/multiple-input-forms.png)
 
